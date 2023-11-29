@@ -1,0 +1,25 @@
+{
+  "name": "daudsarfrazimgcrypt",
+  "version": "1.0.0",
+  "description": "This package is created by Dawood Sarfraz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "daudsarfrazimgcrypt"
+  ],
+  "author": "Dawood Sarfraz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-alerts": "^1.2.2",
+    "cli-handle-error": "^4.4.0",
+    "cli-handle-unhandled": "^1.1.1",
+    "cli-meow-help": "^3.1.0",
+    "cli-welcome": "^2.2.2",
+    "jimp": "^0.22.10",
+    "meow": "^7.1.1",
+    "ora": "^7.0.1"
+  }
+}
